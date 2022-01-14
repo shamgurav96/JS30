@@ -1,7 +1,6 @@
 
 
 function removeTransition(e) {
-    // console.log(e.target.classList);
     e.target.classList.remove('playing');
 }
 
@@ -13,7 +12,6 @@ function playSoundOnKeyDown(e) {
 }
 
 function playSound(inputKey){
-   console.log(inputKey);
     const audio = document.querySelector(`audio[data-key="${+inputKey}"]`);
     const key = document.querySelector(`div[data-key="${+inputKey}"]`);
 
@@ -22,8 +20,7 @@ function playSound(inputKey){
     if (!audio) return;
 
     const keyNote = key.getAttribute("data-note");
-    console.log(keyNote);
-
+    
     key.classList.add('playing');
     note.innerHTML = keyNote;
     audio.currentTime = 0;
