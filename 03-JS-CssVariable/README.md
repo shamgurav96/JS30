@@ -2,7 +2,7 @@
 
 # 03 - CSS Variables and JS
 
-![](demoPic.png)
+![](images/demoPic.png)
 
 view demo [here](https://shamgurav96.github.io/JS30/03-JS-CssVariable/index.html)
 
