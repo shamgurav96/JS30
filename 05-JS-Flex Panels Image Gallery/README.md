@@ -4,4 +4,4 @@
 
 ![](preview.PNG)
 
-view demo [here](https://shamgurav96.github.io/JS30/04-JS-Flex%20Panels%20Image%20Gallery/index.html)
+view demo [here](https://shamgurav96.github.io/JS30/05-JS-Flex%20Panels%20Image%20Gallery/index.html)
