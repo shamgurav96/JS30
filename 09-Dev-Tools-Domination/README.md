@@ -2,7 +2,7 @@
 
 # 09 - DEV Tools Domination
 
-view demo [here](https://shamgurav96.github.io/JS30/08-Dev-Tools-With-Domination/index.html)
+view demo [here](https://shamgurav96.github.io/JS30/09-Dev-Tools-Domination/index.html)
 
 
 
