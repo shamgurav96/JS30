@@ -17,3 +17,4 @@ Demos are given below -
 -   [07 - Array Cardio Day 2](https://shamgurav96.github.io/JS30/07-JS-Array-Cardio-Day-2/index.html)
 -   [08 - Fun With HTML5 Canvas](https://shamgurav96.github.io/JS30/08-JS-Fun-With-HTML5-Canvas/index.html)
 -   [09 - Dev Tools Domination](https://shamgurav96.github.io/JS30/09-Dev-Tools-Domination/index.html)
+-   [10 - Hold Shift And Check Checkboxes](https://shamgurav96.github.io/JS30/10-Hold-Shift-And-Check-Checkboxes/index.html)
